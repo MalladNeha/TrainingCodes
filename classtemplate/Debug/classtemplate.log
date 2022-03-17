@@ -1,0 +1,8 @@
+﻿Build started 16-03-2022 16:21:12.
+     1>Project "c:\Users\neha.mallad\documents\visual studio 2015\Projects\templates\classtemplate\classtemplate.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.MakeFile.Targets(36,5): warning MSB8005: The property 'NMakeBuildCommandLine' doesn't exist.  Skipping...
+     1>Done Building Project "c:\Users\neha.mallad\documents\visual studio 2015\Projects\templates\classtemplate\classtemplate.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.01
